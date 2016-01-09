@@ -43,4 +43,5 @@ dependencies {
         transitive = true;
     }
     compile 'com.paypal.sdk:paypal-android-sdk:2.12.4'
+    compile 'io.conekta:conektasdk:2.0'
 }

@@ -29,4 +29,11 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true" />
 
+    <Button
+        android:id="@+id/btnTokenize"
+        android:text="Genera Conekta Token"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/buyItBtn"/>
+
 </RelativeLayout>
